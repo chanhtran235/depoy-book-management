@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/depoy-book-management/static/css/main.201b6162.css",
+    "main.js": "/depoy-book-management/static/js/main.918bbdbd.js",
+    "static/js/488.981d8e04.chunk.js": "/depoy-book-management/static/js/488.981d8e04.chunk.js",
+    "static/media/logo.svg": "/depoy-book-management/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/depoy-book-management/index.html",
+    "main.201b6162.css.map": "/depoy-book-management/static/css/main.201b6162.css.map",
+    "main.918bbdbd.js.map": "/depoy-book-management/static/js/main.918bbdbd.js.map",
+    "488.981d8e04.chunk.js.map": "/depoy-book-management/static/js/488.981d8e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.201b6162.css",
+    "static/js/main.918bbdbd.js"
+  ]
+}
