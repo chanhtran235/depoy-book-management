@@ -1,0 +1,85 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "code": "BOOK-001",
+      "name": "Java",
+      "author": "Bùi Xuân Tiến",
+      "price": 200,
+      "publicationOfDate": "12-12-2000",
+      "category": {
+        "id": 1,
+        "name": "Khoa học tự nhiên"
+      }
+    },
+    {
+      "id": 2,
+      "code": "BOOK-002",
+      "name": "PHP",
+      "author": "Bùi Xuân Tiến",
+      "price": 100,
+      "publicationOfDate": "12-12-2000",
+      "category": {
+        "id": 2,
+        "name": "Khoa học xã hôi"
+      }
+    },
+    {
+      "id": 3,
+      "code": "BOOK-003",
+      "name": "Javascript",
+      "author": "Bùi Xuân Tiến",
+      "price": 400,
+      "publicationOfDate": "12-12-2000",
+      "category": {
+        "id": 2,
+        "name": "Khoa học xã hôi"
+      }
+    },
+    {
+      "id": 4,
+      "code": "BOOK-004",
+      "name": "Java core",
+      "author": "Bùi Xuân Tiến",
+      "price": 400,
+      "publicationOfDate": "12-12-2000",
+      "category": {
+        "id": 2,
+        "name": "Khoa học xã hôi"
+      }
+    },
+    {
+      "id": 5,
+      "code": "BOOK-005",
+      "name": "Java web",
+      "author": "Bùi Xuân Tiến",
+      "price": 400,
+      "publicationOfDate": "12-12-2000",
+      "category": {
+        "id": 2,
+        "name": "Khoa học xã hôi"
+      }
+    },
+    {
+      "code": "BOOK-021",
+      "name": "SQL",
+      "author": "Chánh",
+      "publicationOfDate": "2024-12-10",
+      "category": {
+        "id": 2,
+        "name": "Khoa học xã hôi"
+      },
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Khoa học tự nhiên"
+    },
+    {
+      "id": 2,
+      "name": "Khoa học xã hôi"
+    }
+  ]
+}
